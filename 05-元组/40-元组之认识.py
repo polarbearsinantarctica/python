@@ -2,7 +2,7 @@
 # @Time    : 2020/5/2 16:15
 # @Author  : polarbear
 # @Email   : 3196355931@qq.com
-# @File    : 40-元组.py
+# @File    : 40-元组之认识.py
 
 #元组中的数据不能修改
 t1 = (10,20,30)

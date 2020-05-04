@@ -2,7 +2,7 @@
 # @Time    : 2020/5/1 3:17
 # @Author  : polarbear
 # @Email   : 3196355931@qq.com
-# @File    : 33-列表判断是否存在.py
+# @File    : 33-列表之判断是否存在.py
 
 name_list = ['TOM','Lily','ROSE']
 #1.in

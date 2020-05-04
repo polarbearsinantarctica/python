@@ -2,7 +2,7 @@
 # @Time    : 2020/4/25 22:07
 # @Author  : polarbear
 # @Email   : 3196355931@qq.com
-# @File    : 24-认识字符串.py
+# @File    : 24-字符串之认识.py
 a = 'hello world'
 print(a)
 print(type(a))

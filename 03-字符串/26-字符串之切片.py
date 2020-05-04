@@ -2,7 +2,7 @@
 # @Time    : 2020/4/25 22:37
 # @Author  : polarbear
 # @Email   : 3196355931@qq.com
-# @File    : 26-切片.py
+# @File    : 26-字符串之切片.py
 str1 = 'qwertyu'
 print(str1)
 

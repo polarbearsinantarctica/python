@@ -2,7 +2,7 @@
 # @Time    : 2020/5/2 18:41
 # @Author  : polarbear
 # @Email   : 3196355931@qq.com
-# @File    : 43-字典创建.py
+# @File    : 43-字典之认识.py
 dict1={'name': 'Tom','age':20,'gender': '男'}
 print(dict1)
 print(type(dict1))
